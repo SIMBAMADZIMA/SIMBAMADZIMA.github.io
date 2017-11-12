@@ -7,11 +7,25 @@
 }
 
 .my-nav{ 
-background: rgba(79, 217, 110, 0.21);
+background: rgba(79, 217, 212, 0.95);
  }
  .jumbotron{
- 	background-image: url('../img/building2.jpg');
- 	background-repeat: no-repeat;
- 	background-size: cover;
+ 	
  	color: white;
  }
+.oprahouse-bg{
+    background-image: url('../img/building2.jpg');
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+}
+.no-bg{
+	background: none;
+}
+.perth-bg{
+background-image: url('../img/gondolas-on-the-swan-perth-attractions-perth-swan-1.jpg');
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+}
+.no-bg{
+	background: none;
+}
