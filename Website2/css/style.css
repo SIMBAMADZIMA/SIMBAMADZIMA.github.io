@@ -1,0 +1,17 @@
+.profile-pic {
+    max-width: 100%
+}
+.profile-title {
+	color:#5042f4;
+	font-family: 'Lobster', cursive;
+}
+
+.my-nav{ 
+background: rgba(79, 217, 110, 0.21);
+ }
+ .jumbotron{
+ 	background-image: url('../img/building2.jpg');
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	color: white;
+ }
